@@ -1,0 +1,3 @@
+I am Brian Yang
+This is Studio 3 of cosc416...
+The video is at https://github.com/SuperFireBomber/ThirdPersonPlatformer/blob/main/studio%203.mp4
